@@ -1,0 +1,10 @@
+
+footer a{
+    justify-items:flex-end;
+}
+
+h1,h3{
+    color:goldenrod;
+    text-decoration-line: underline;
+    background-color:lightgrey;
+}
