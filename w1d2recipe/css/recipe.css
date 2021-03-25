@@ -1,17 +1,25 @@
 
-footer {
+footer{
     float: right;
 }
 
 h1,h3{
-    color:saddlebrown;
+    color:rgb(155, 21, 233);
     text-decoration-line: underline;
     background-color:lightgray;
 }
 div#links a{
     color: goldenrod;
 }
+div#links{
+    border: none;
+}
+
 div#comments p{
     background-color: yellow;
     font-style:italic;
+}
+div{
+    border-bottom: solid;
+    border-bottom-color: lightsalmon;
 }
