@@ -11,6 +11,10 @@ h1,h3{
 div#links a{
     color: goldenrod;
 }
+div#links a:hover{
+    color: red;
+    font-weight: bolder;
+}
 div#links{
     border: none;
 }
