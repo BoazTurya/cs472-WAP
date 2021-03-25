@@ -23,3 +23,7 @@ div{
     border-bottom: solid;
     border-bottom-color: lightsalmon;
 }
+
+body{
+    background-image: url(../recipeImages/background.gif);
+}
