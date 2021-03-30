@@ -18,3 +18,5 @@ for(i=0;i<=4;i++){
  console.log(myarray[3]());
  console.log(myarray[4]());
 
+ 
+
